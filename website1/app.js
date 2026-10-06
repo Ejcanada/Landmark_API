@@ -1,4 +1,4 @@
-const API_URL = "https://my-simpleai-ordas.vercel.app";
+const API_URL = "https://landmarkapi-nu.vercel.app/";
 const API_KEY = "my_secret_landmark_key";
 
 const FETCH_OPTIONS = {
